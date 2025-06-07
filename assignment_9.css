@@ -1,0 +1,23 @@
+body{
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    text-align:center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size:20px;
+}
+input,textarea{
+    margin-bottom:10px;
+    margin-left:5px;
+}
+label{
+    margin-right:10px;
+}
